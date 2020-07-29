@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 😁
+
+Passionate about programming and always looking for the best game development technologies, web and mobile, I became a developer. 👨‍💻
+
+I graduated in digital games technician at SENAI in 2018, where I developed a large part of my knowledge in the C # language on the Unity3D engine, throughout the course I had the opportunity to intern at Blue Pixel as a QA. 🎮
+
+Curiosity and interest define me, now in 2020 to update myself with the most modern web and mobile development technologies, I started the Rocketseat GoStack course in order to master a powerful Stack with Node on the back end, React on the web and React Native on mobile, using the JavaScript language with TypeScript.💻
+
 
 <!--
 **jonaspmaia/jonaspmaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
